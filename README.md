@@ -24,7 +24,7 @@ Self Driving Car
 
 # 📁 Access the Project
 
-**Is found in Github: "https://github.com/Gui1111RIbeiro/Self_Driving_Car"**
+**Is found in Github: "https://github.com/GuiQueirozRibeiro/Self_Driving_Car"**
 
 # 🔨 Project Features
 
