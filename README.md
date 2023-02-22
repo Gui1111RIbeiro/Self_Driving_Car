@@ -34,7 +34,7 @@ Self Driving Car
 
 # ▶ Run the Project
 
-- `To execute the programm, just open the index.html with a brownser:`
+- `To execute the programm, just open the index.html with a browser`
 
 # 👨‍💻 Authors
 
