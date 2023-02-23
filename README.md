@@ -20,7 +20,7 @@ Self Driving Car
 
 # Project Description
 
-[Describe]
+When I took the subject of artificial intelligence in university, I was very curious about it but the teacher was not the best. As I wanted to learn a little more JavaScript too, I ended up studying a lot to carry out this project. It consists of a population of cars that drive themselves in order to generate better and better populations, thus having an option to save the best population locally or delete it
 
 # 📁 Access the Project
 
