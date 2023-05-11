@@ -32,7 +32,7 @@ Quando cursei a disciplina de inteligência artificial na universidade, fiquei m
 - `Funcionalidade 2`: fazer a aprendizagem de inteligência artificial
 - `Funcionalidade 3`: visualizar as decisões tomadas pela IA
 
-# ▶ Executando o projeto
+# ▶ Executar o projeto
 
 - `Para executar o programa, basta abrir o index.html com um navegador`
 
