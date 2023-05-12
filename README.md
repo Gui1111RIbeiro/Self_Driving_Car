@@ -24,7 +24,7 @@ Quando cursei a disciplina de inteligência artificial na universidade, fiquei m
 
 # 📁 Acesso ao projeto
 
-**Disponível no Github: "https://github.com/GuiQueirozRibeiro/Self_Driving_Car"**
+**Está disponível no Github: "https://github.com/GuiQueirozRibeiro/Self_Driving_Car"**
 
 # 🔨 Funcionalidades do projeto
 
